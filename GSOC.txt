@@ -1,0 +1,32 @@
+motivatio
+-- Learning opportunity
+
+-- Choose organization
+-- Join communication
+-- choose project
+-- prepare and subbmit proposal
+
+irc channel for communtion ->slack/google group/
+
+
+checkout wiki page
+read code
+send pr in bulk
+merge 10 -20 pr = 50% chance
+pr is the pull request
+select 2 organization -> check constant organization
+
+Proposal
+---------
+contain ->github -> how u gone achieve this
+--> technology -> split up task 
+--> indicate open source  contribution  
+
+--> 
+
+
+
+
+Organisation
+-------------
+@@WIKImediaFoundation
