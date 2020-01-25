@@ -1,0 +1,38 @@
+p5.js
+
+
+
+intermine
+---------------------------------------------------------------------------------------
+reference->https://medium.com/intermine/gsoc18-with-intermine-final-evaluation-1c8f58d0d62
+    @include-> https://medium.com/@dwivedi.aman96/google-summer-of-code-2018-b0dfa951b867
+
+
+proposal
+--------------
+2018 ->https://drive.google.com/file/d/1PicFJrKn7t0AZDUPe3tBbKWwL-hgW7cX/view
+2019 ->
+
+wikimedia
+------------------------------------------------------------------------------------------
+direction to contribute -> https://www.mediawiki.org/wiki/How_to_become_a_MediaWiki_hacker#Feedback,_questions_and_support
+
+
+phabricator
+----------------
+about phabricator))
+https://www.youtube.com/watch?v=QMhGzsPTsCg&feature=em-subs_digest
+https://commons.wikimedia.org/wiki/File:Introduction-to-Phabricator-WikiCon-2016.pdf
+
+wiki education dashboard
+------------------------------------
+ores
+------
+
+----------------
+hello mentors
+I'm shubham kapoor pursuing my btech in CS stream. I'm in last year of my college and really want to make some contribution. I get to know about wikimedia foundation and found this is right place for me to contribute and get experience with open source project's.
+I read previous chat of  @**Pavithra Eswaramoorthy|209492** mam and other mentors and thought it will be right place to contribute where i get so much support from u guys.
+i will get through wikimedia foundation and ping u guys as soon as possible.
+thanku very
+--------------
