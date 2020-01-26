@@ -1,0 +1,24 @@
+---> title
+----> subtitle
+@_ linkdiscription
+@@ this is for description
+: assign some tages to words(sort description)
+
+
+--> project idea
+@@ 
+https://www.mediawiki.org/wiki/Google_Summer_of_Code/2020#Project_ideas
+https://www.mediawiki.org/wiki/Google_Summer_of_Code/2020
+
+
+---> phabricater
+@_implink-> https://commons.wikimedia.org/w/index.php?title=File:Introduction-to-Phabricator-WikiCon-2016.pdf&page=18
+
+--> Ores
+
+
+--> pageForm:extension
+
+
+--> Ideas
+@@ Develop a mechanism to send Wikimedia-specific Zulip welcome messages
