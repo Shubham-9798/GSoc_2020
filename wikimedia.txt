@@ -1,18 +1,27 @@
 ---> title
 ----> subtitle
-@_ linkdiscription
+@ list
+@__ @linkdiscription
+@_@  link
 @@ this is for description
 : assign some tages to words(sort description)
 
 
---> project idea
-@@ 
-https://www.mediawiki.org/wiki/Google_Summer_of_Code/2020#Project_ideas
-https://www.mediawiki.org/wiki/Google_Summer_of_Code/2020
+--> suggested idea
+@__@ it include suggested project idea
+@_@ https://www.mediawiki.org/wiki/Google_Summer_of_Code/2020#Project_ideas
+
+@__@ List of all application and small projects
+@_@ https://www.mediawiki.org/wiki/Good_first_bugs
+
+@__@ wikimedia last project
+@_@ https://www.mediawiki.org/wiki/Google_Summer_of_Code/Past_projects
+
 
 
 ---> phabricater
-@_implink-> https://commons.wikimedia.org/w/index.php?title=File:Introduction-to-Phabricator-WikiCon-2016.pdf&page=18
+@__@
+@_@ https://commons.wikimedia.org/w/index.php?title=File:Introduction-to-Phabricator-WikiCon-2016.pdf&page=18
 
 --> Ores
 
@@ -21,4 +30,31 @@ https://www.mediawiki.org/wiki/Google_Summer_of_Code/2020
 
 
 --> Ideas
-@@ Develop a mechanism to send Wikimedia-specific Zulip welcome messages
+----> Develop a mechanism to send Wikimedia-specific Zulip welcome messages
+@__@
+@_@ 
+
+----> Remove use of jQuery UI from Page Forms
+@__@ about pageForm extension
+@_@ https://www.mediawiki.org/wiki/Extension:Page_Forms
+
+@__@ 
+
+
+---------------------
+---->toolused to protect the service fro wm developer acc and wikimedia account
+  @ This wiki
+  @Cloud VPS Projects
+  @Toolforge
+  @Horizon
+  @Phabricator
+  @Gerrit
+
+Authntication
+-----------------------
+----> wikimedia accout
+@ kap cool
+@ 123Kap@1998
+------------------------------
+enviroment setup config steps
+https://www.mediawiki.org/wiki/Gerrit/Tutorial#What_is_Git?
